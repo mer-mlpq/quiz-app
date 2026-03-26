@@ -1,0 +1,8 @@
+# macOS system file
+.DS_Store
+
+# Node / React (you'll need this later)
+node_modules/
+
+# Environment files
+.env
