@@ -95,3 +95,16 @@ button:focus-visible {
 button:disabled:hover {
   transform: none;
 }
+.correct {
+  background-color: green;
+}
+.wrong {
+  background: red;
+}
+
+.selected {
+  font-weight: bold;
+  border: 2.3px solid black;
+  scale: 1.01;
+  transition: scale 0.3s;
+}
